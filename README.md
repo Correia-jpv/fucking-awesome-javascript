@@ -158,6 +158,7 @@ A collection of awesome browser-side 🌎 [JavaScript](developer.mozilla.org/en-
 * <b><code>&nbsp;&nbsp;9697⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;699🍴</code></b> [TestCafe](https://github.com/DevExpress/testcafe)) - Automated browser testing for the modern web development stack.
 * <b><code>&nbsp;20528⭐</code></b> <b><code>&nbsp;&nbsp;1486🍴</code></b> [ava](https://github.com/avajs/ava)) - 🚀 Futuristic JavaScript test runner
 * 🌎 [Cypress](www.cypress.io/) - Complete end-to-end testing framework for anything that runs in a browser and beyond.
+* <b><code>&nbsp;4k⭐</code></b><b><code>&nbsp;&nbsp;&nbsp;749🍴</code></b> [CodeceptJS](https://codecept.io/) E2E testing with a special unificated BDD-style syntax for different frameworks.
 
 ### Assertion
 
@@ -188,6 +189,7 @@ A collection of awesome browser-side 🌎 [JavaScript](developer.mozilla.org/en-
 * <b><code>&nbsp;&nbsp;8348⭐</code></b> <b><code>&nbsp;&nbsp;2381🍴</code></b> [webdriverio](https://github.com/webdriverio/webdriverio)) - Next-gen WebDriver test automation framework for Node.js.
 * <b><code>&nbsp;&nbsp;3372⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;393🍴</code></b> [taiko](https://github.com/getgauge/taiko)) - A Node.js library with a simple API to automate Chromium based browsers.
 * <b><code>&nbsp;56335⭐</code></b> <b><code>&nbsp;&nbsp;3113🍴</code></b> [Playwright](https://github.com/microsoft/playwright)) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+* 🌎 [testomatio-reporter](https://github.com/testomatio/reporter): Real-time reporting,  analytics, running tests on CI\CD. Jira, Liner, AzureDevOps task mask management integrations and many more.
 
 ## QA Tools
 
