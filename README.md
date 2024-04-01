@@ -1038,6 +1038,7 @@ https://listjs.com
 * <b><code>&nbsp;&nbsp;4747⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;420🍴</code></b> [Peg.js](https://github.com/pegjs/pegjs)) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
 * <b><code>&nbsp;&nbsp;&nbsp;114⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;16🍴</code></b> [lune](https://github.com/ryanseys/lune)) - Library to calculate the phases of the moon accurately.
 * <b><code>&nbsp;&nbsp;1719⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;168🍴</code></b> [jsemu](https://github.com/fcambus/jsemu)) - A list of emulators written in the JavaScript programming language.
+* <b><code>&nbsp;&nbsp;1760⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;115🍴</code></b> [jsemu](https://github.com/KudoAI/chatgpt.js)) - A powerful client-side JavaScript library for ChatGPT.
 
 # Worth Reading
  
